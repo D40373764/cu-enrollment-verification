@@ -1,4 +1,4 @@
-export let template = `
+exports.template = `
 <!DOCTYPE html>
 <html lang="en">
 	<head>
